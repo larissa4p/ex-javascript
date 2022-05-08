@@ -12,8 +12,8 @@ nome = "Joao";
 
 console.log(nome)
 
-let name = "Larissa"
-console.log(`Meu nome é ${name}`)
+let nome1 = "Larissa"
+console.log(`Meu nome é ${nome1}`)
 
 let idade = "26 anos"
 console.log(`Minha idade é de ${idade}`);
