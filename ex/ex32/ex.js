@@ -1,5 +1,6 @@
-let contando = [4, 7, 20, 15, 10]
 
-for(let c = 0; c <= contando.length; c++) {
-    console.log(contando[c])
+let frutas = ["Maçã", "Banana", "Melão", "Laranja"]
+
+for(let i = 0; i < frutas.length; i++) {
+    console.log(frutas)
 }
