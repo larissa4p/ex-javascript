@@ -1,4 +1,18 @@
-let pot = Math.pow(2,2)
+// Função Math.pow(); Testar com console.log() e as seguintes base: 2,3,18 e o expoente deve ser 2;
+
+let calc = Math.pow(7, 3)
+
+    console.log(calc)
+
+let calc2 = Math.pow(4, 9)
+
+    console.log(calc2)
+
+let calc3 = Math.pow(10, 2)
+
+    console.log(calc3)
+
+    let pot = Math.pow(2,2)
 
     console.log(pot)
 
