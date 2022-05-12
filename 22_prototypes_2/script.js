@@ -10,7 +10,7 @@ console.log(pessoa.hasOwnProperty('maos'))
 
 const pessoaNova = Object.create(pessoa)
 
-console.log(pessoaNova.maos)
+console.log(pessoaNova.maos) 
 
 console.log(pessoaNova.hasOwnProperty('maos'))
 
